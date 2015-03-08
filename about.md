@@ -9,4 +9,4 @@ Apart from that I am also a historian (meh...), writer and well, literature guy 
 
 And because life is short, here is a potato:
 
-![Potato](/assets/potato.JPG =1000x)
+![Potato](/assets/potato.JPG)
