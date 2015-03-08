@@ -9,4 +9,4 @@ Apart from that I am also a historian (meh...), writer and well, literature guy 
 
 And because life is short, here is a potato:
 
-![Potato](/assets/potato.jpg)
+![Potato](/assets/potato.JPG)
