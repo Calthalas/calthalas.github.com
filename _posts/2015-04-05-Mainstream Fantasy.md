@@ -17,6 +17,6 @@ Sure there was! But that is not the point. Terry Pratchett was, first and foremo
 
 ### Onwards and Upwards
 
-This is not to say that fantasy is deemed to be the bastard child of literature forever. It is having its heyday if not in quality then at least in the public space (now everybody wants to be a fantasy writer! E.g. Kazuo Ishiguro's *The Buried Giant* [^1]). nd while I might be a bit sad about the means in which fantasy starts to take cultural space by the storm (I tend to fall asleep on GoT episodes) I am very happy that it does. It is, when you look at it, the oldest of ways of telling a story.
+This is not to say that fantasy is deemed to be the bastard child of literature forever. It is having its heyday if not in quality then at least in the public space (now everybody wants to be a fantasy writer! E.g. Kazuo Ishiguro's *The Buried Giant* [^1]). And while I might be a bit sad about the **method** in which fantasy starts to take cultural space by the storm (I tend to fall asleep on GoT episodes) I am very happy that it does. It is, when you look at it, the oldest of ways of telling a story.
 
 [^1]: Frankly - attrocious. Review, gods willing, forthcoming.
