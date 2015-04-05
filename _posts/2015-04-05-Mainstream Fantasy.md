@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Introducing Poole
+title: Mainstream Fantasy
 ---
-
-##Mainstream Fantasy...
 
 ###Of Converts
 
