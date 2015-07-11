@@ -2,6 +2,8 @@
 layout: page
 title: Looking for a flat
 ---
+<meta name="description" content="Help Mat find a flat!" /><!--formatted-->
+
 [Auf Deutsch](/flat_de)
 
 ##Hey!
