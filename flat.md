@@ -16,6 +16,8 @@ The thing is...
 
 In Berlin!
 
+![Berlin](/assets/berlin.png)
+
 And urgently. Can you help Mat? If you can help him find a flat he will bake you a cake! (Not just a virtual one, a real cake - of your choice or you can just let him surprise you!)
 
 Here are some details:
