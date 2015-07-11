@@ -2,6 +2,7 @@
 layout: page
 title: Looking for a flat
 ---
+[Auf Deutsch](/flat_de)
 
 ##Hey!
 
