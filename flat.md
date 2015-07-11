@@ -3,8 +3,8 @@ layout: page
 title: Looking for a flat
 ---
 <head>
-<link rel="image_src" href="/assets/berlin.png" / ><!--formatted-->
-</head>
+	<link rel="image_src" href="/assets/berlin.png" / >
+</head><!--formatted-->
 <meta name="description" content="Help Mat find a flat!" /><!--formatted-->
 
 [Auf Deutsch](/flat_de)
