@@ -4,7 +4,7 @@ title: Looking for a flat
 ---
 <head>
 <meta>
-	<link rel="image_src" href="/assets/berlin.png" / >
+	<link rel="image_src" href="/assets/berlin.png" >
 	</meta>
 </head><!--formatted-->
 <meta name="description" content="Help Mat find a flat!" /><!--formatted-->
