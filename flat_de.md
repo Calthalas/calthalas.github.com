@@ -2,6 +2,10 @@
 layout: page
 title: Wohnungssuche
 ---
+<head>
+<link rel="image_src" href="/assets/berlin.png" / ><!--formatted-->
+</head>
+<meta name="description" content="Help Mat find a flat!" /><!--formatted-->
 
 [In English](/flat)
 
