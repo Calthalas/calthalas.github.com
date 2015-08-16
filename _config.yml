@@ -10,15 +10,15 @@ paginate:         1
 baseurl:          /
 author:
   name:           Calthalas
-  url:            
+  url:
   email:          calthalas@yahoo.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           
+  repo:
 
 #Pages
-pages_list:       
+pages_list:
   #About: '/about'
-  #Archive: '/archive'
+  Archive: '/archive'
