@@ -19,10 +19,9 @@ github:
   repo:
 
 #Pages
-pages_list:
-  About: '/about'
-  Archive: '/archive'
-  CV: '/CV_markdown'
-  About: '/about'
-  Archive: '/archive'
->>>>>>> origin/master
+#pages_list:
+  #About: '/about'
+  #Archive: '/archive'
+  #CV: '/CV_markdown'
+  #About: '/about'
+  #Archive: '/archive'
