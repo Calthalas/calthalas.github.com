@@ -18,9 +18,9 @@ github:
   repo:
 
 #Pages
-#pages_list:
+pages_list:
   #About: '/about'
-  #Archive: '/archive'
+  Archive: '/archive'
   #CV: '/CV_markdown'
   #About: '/about'
   #Archive: '/archive'
