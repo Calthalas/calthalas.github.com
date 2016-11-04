@@ -20,6 +20,11 @@ github:
 
 #Pages
 pages_list:
+<<<<<<< HEAD
   About: '/about'
   Archive: '/archive'
   CV: '/CV_markdown'
+=======
+  #About: '/about'
+  Archive: '/archive'
+>>>>>>> origin/master
