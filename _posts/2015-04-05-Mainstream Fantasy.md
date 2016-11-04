@@ -3,11 +3,11 @@ layout: post
 title: Mainstream Fantasy
 ---
 
-###Of Converts
+### Of Converts
 
 Guardian published an [article](http://www.theguardian.com/books/2015/apr/03/george-rr-martin-game-of-thrones-and-the-triumph-of-fantasy-fiction) about how fantasy is entering mainstream. Frankly speaking I can't even bear anymore the self-professed "converts" (who, in 9 out of 10 cases, converted after watching Game of Thrones), but the need to include rather than exclude fantasy is, as a phenomenon, fascinating in itself. And I'm really happy about it!
 
-###Of Writers Lost
+### Of Writers Lost
 
 Recently we lost Terry Pratchett. A writer, who managed to become an actual friend of milions of readers around the world and (damn) this is not even a cliché. People (including yours truly) were able to turn to his books and find not only entertainment but solace. He achieved that not through easy moralising or dishing out universal truths but through a complicated and morally ambigious (and unstable) world that, at the same time, was extremely funny.
 
