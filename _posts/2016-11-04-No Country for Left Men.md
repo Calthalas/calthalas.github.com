@@ -1,6 +1,9 @@
 ---
 layout: post
 title: No country for left men
+related: [
+    "If..."
+    ]
 ---
 
 This text is not going to be extremely original.
