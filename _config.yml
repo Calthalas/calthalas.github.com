@@ -20,7 +20,7 @@ github:
 
 #Pages
 pages_list:
-<<<<<<< HEAD
+HEAD
   About: '/about'
   Archive: '/archive'
   CV: '/CV_markdown'
